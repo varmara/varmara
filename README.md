@@ -5,3 +5,13 @@
 - 🎓  Former university lecturer (Biostatistics, R): 👩‍🏫 taught statistics to diverse audiences.
 - 🧠  Currently looking for a job in Nottingham - Data Analyst (Product Analytics, Clinical Research).
 - 💥  Busy making the transition into industry by upskilling (Python, SQL, GCP, BigQuery, Looker, Tableau).
+
+### 🧰 Tools I use:
+
+Python, R, SQL, PostgreSQL, Jupyter, Git, GitHub, Tableau, Shiny, GCP, BigQuery, Looker
+
+
+### You can get in touch at the links below:
+
+- [LinkedIn](https://www.linkedin.com/in/marina-varfolomeeva/)
+- [Email](mailto:marina.varfolomeeva@gmail.com)
