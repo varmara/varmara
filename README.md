@@ -6,12 +6,11 @@
 - 🧠  Currently looking for a job in Nottingham - Data Analyst (Product Analytics, Clinical Research).
 - 💥  Busy making the transition into industry by upskilling (Python, SQL, GCP, BigQuery, Looker, Tableau).
 
-### 🧰 Tools I use:
+#### 🧰 Tools I use:
 
-Python, R, SQL, PostgreSQL, Jupyter, Git, GitHub, Tableau, Shiny, GCP, BigQuery, Looker
+Python, R, SQL, PostgreSQL, BigQuery, Looker, Tableau, Shiny, Git, Docker, GCP
 
-
-### You can get in touch at the links below:
+#### ✉️ You can get in touch at the links below:
 
 - [LinkedIn](https://www.linkedin.com/in/marina-varfolomeeva/)
 - [Email](mailto:marina.varfolomeeva@gmail.com)
