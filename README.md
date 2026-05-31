@@ -1,16 +1,17 @@
 ### Hi there, I'm Marina 👋
 
-- 💻  Data Analyst with ~20 years of experience in statistical data analysis, machine learning, and digital transformation.
-- 📈 Proven track record in leading cross-functional analytics projects, 🤖developing automated reporting solutions, and 💡delivering actionable business insights  for global organizations including PepsiCo.
-- ☁️ Expert in cloud-based data management, 📱web applications development feedback, and 🤝stakeholder engagement.
-- 📊  Author of 30+ scientific papers as an analyst or research designer.
-- 🎓  University lecturer with 17 years of experience, 👩‍🏫 taught Statistics, Data Analysis and R to diverse audiences, from students to professionals.
+- 💻 Data Scientist with ~20 years of experience in statistical analysis, machine learning, and digital transformation.
+- 📈 Led cross-functional analytics projects and built automated reporting solutions for global organizations including PepsiCo.
+- 📊 Author of 30+ scientific papers in marine ecology and biology.
+- 🎓 Taught Statistics, Data Analysis, and R at St Petersburg State University for 17 years — from students to industry professionals.
+
+🌐 [varmara.github.io](https://varmara.github.io)
 
 #### 🧰 Tools I use:
 
-Python, R, SQL, PostgreSQL, BigQuery, Power Query, Power BI, Tableau, Shiny, Azure DevOps, Git, Docker, GCP
+Python · R · SQL · Azure Databricks · BigQuery · GCP · Power BI · Tableau · Shiny · Docker · Azure DevOps · Git
 
-#### ✉️ You can get in touch at the links below:
+#### ✉️ Get in touch:
 
 - [LinkedIn](https://www.linkedin.com/in/marina-varfolomeeva/)
 - [Email](mailto:marina.varfolomeeva@gmail.com)
